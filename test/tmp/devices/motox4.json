@@ -1,0 +1,23 @@
+{
+    "port": 4723,
+    "host": "localhost",
+    "path": "/wd/hub",
+    "appiumVersion": "1.20.2",
+    "browserName": "",
+    "platformName": "Android",
+    "platformVersion": "9.0",
+    "deviceName": "ZY224LGD28",
+    "app": "/Users/zerocool/Projects/examples/Flutter-Appium/build/app/outputs/flutter-apk/app-debug.apk",
+    "appPackage": "com.example.appium_example",
+    "appActivity": ".MainActivity",
+    "waitforTimeout": 10000,
+    "commandTimeout": 10000,
+    "newCommandTimeout": 30000,
+    "automationName": "Flutter",
+    "capabilities": {
+        "platformName": "Android",
+        "platformVersion": "9.0",
+        "deviceName": "ZY224LGD28",
+        "app": "/Users/zerocool/Projects/examples/Flutter-Appium/build/app/outputs/flutter-apk/app-debug.apk"
+    }
+}

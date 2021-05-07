@@ -1,0 +1,14 @@
+{
+    "appiumVersion": "{%=o.appiumVersion%}",
+    "browserName": "",
+    "platformName": "Android",
+    "platformVersion": "{%=o.platformVersion%}",
+    "deviceName": "{%=o.deviceName%}",
+    "app": "{%=o.apkPath%}",
+    "appPackage": "{%=o.appPackage%}",
+    "appActivity": "{%=o.appActivity%}",
+    "waitforTimeout": 10000,
+    "commandTimeout": 10000,
+    "newCommandTimeout": 30000,
+    "automationName": "UiAutomator2"
+}
