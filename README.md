@@ -1,10 +1,10 @@
 # appium_example
 
-A new Flutter project.
+A basic boilerplate for an Appium-based CI/CD pipeline on a new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Test-Driven and continuously deliverable Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
